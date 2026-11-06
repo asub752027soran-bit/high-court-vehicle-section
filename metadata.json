@@ -1,0 +1,6 @@
+{
+  "name": "Fuel SpeedSheet - Vehicle & Coupon Ledger",
+  "description": "High-speed spreadsheet and ledger for logging vehicle numbers, fuel amounts supplied, coupon numbers, and dates with instant calculations, inline editing, and CSV export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
